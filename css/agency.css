@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-default .navbar-brand {
-	color: #fed120;
+	color: #fed136;
 	font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial,
 		cursive
 }
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus,
 	.navbar-default .navbar-brand:active, .navbar-default .navbar-brand.active
 	{
-	color: #fec200
+	color: #fec503
 }
 
 .navbar-default .navbar-collapse {
